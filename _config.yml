@@ -13,9 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Simple pages site template
+title: Garden
 description: >- # this means to ignore newlines until "baseurl:"
-  Simple pages site template description.
+  this is our garden
 
 # Note: configuring the following options might make it hard to get your
 # page working on both GitHub and locally.
@@ -23,9 +23,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 # url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Customize these:
-email: my initials at alum.mit.edu
-twitter_username: pdg137
-github_username:  pdg137
+email:
+twitter_username:
+github_username:
 
 # Build settings
 markdown: kramdown
