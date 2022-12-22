@@ -27,7 +27,7 @@ email:
 twitter_username:
 github_username:
 
-# Build settings
+# Build setting
 markdown: kramdown
 theme: minima
 plugins:
@@ -37,7 +37,7 @@ plugins:
 header_pages:
   - pages/courtyard/index.md
   - pages/backyard/index.md
-
+  - pages/frontyard/index.md
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
